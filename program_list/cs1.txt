@@ -1,0 +1,459 @@
+Stanford MSCS
+https://cs.stanford.edu/admissions/checklist
+ddl: 12-04
+https://cs.stanford.edu/admissions/deadlines
+网申链接
+https://gradadmissions.stanford.edu/applying
+录取数据统计
+master_info/stanford_cs.html
+
+Yale MSCS
+https://cpsc.yale.edu/academics/graduate-program/master-science
+ddl: 01-02
+https://cpsc.yale.edu/academics/graduate-program/yale-computer-science-admissions-faq
+网申链接
+https://apply.grad.yale.edu/apply/status
+录取数据统计
+master_info/yale_cs.html
+
+Harvard CSE
+https://www.seas.harvard.edu/programs/graduate/applied-computation
+ddl: 12-15
+https://gsas.harvard.edu/programs-of-study/divisions/school-engineering-and-applied-sciences
+网申链接
+https://apply.gsas.harvard.edu/apply/
+
+Columbia MSCS
+http://www.cs.columbia.edu/education/ms/
+ddl: 02-15/rolling
+http://www.cs.columbia.edu/education/ms/appfaq/
+网申链接
+https://mice.cs.columbia.edu/recruit/login
+TOEFL: 101(recommended)
+http://www.cs.columbia.edu/education/ms/appfaq/
+录取数据统计
+master_info/columbia_cs.html
+
+Brown MSCS
+http://cs.brown.edu/degrees/masters/
+ddl: 03-15/10-15(春)
+http://cs.brown.edu/degrees/masters/applications/faq/
+网申链接
+http://www.brown.edu/academics/gradschool/application-information
+TOEFL: 105(recommended)
+http://cs.brown.edu/degrees/masters/applications/faq/
+录取数据统计
+master_info/brown_cs.html
+
+Cornell MEng CS
+https://www.cs.cornell.edu/masters
+ddl: 02-01/10-01(春)
+https://www.cs.cornell.edu/masters/apply
+网申链接
+https://gradschool.cornell.edu/admissions/apply/apply-now/
+TOEFL: s22
+https://gradschool.cornell.edu/admissions/prepare/english-language-proficiency-requirement/
+
+Cornell-Tech MEng CS(NYC)
+https://tech.cornell.edu/programs/masters-programs/master-in-computer-science/
+ddl: 12-05/02-15/rolling
+https://tech.cornell.edu/admissions/meng-application/
+网申链接
+https://cornelltech.secure.force.com/CornellTech/
+TOEFL: s22
+https://gradschool.cornell.edu/admissions/prepare/english-language-proficiency-requirement/
+录取数据统计
+master_info/cornell_tech_cs.html
+
+CMU-INI MSIN
+https://www.cmu.edu/ini/academics/msin/index.html
+ddl: 12-31
+https://www.cmu.edu/ini/admissions/applynow.html
+网申链接
+https://gradadmissions.engineering.cmu.edu/apply/
+TOEFL: 无最低要求，推荐单项25+
+https://www.cmu.edu/ini/admissions/faq.html
+curriculum
+https://www.cmu.edu/ini/academics/msin/curriculum_ms29.html
+录取数据统计
+master_info/cmu_cs.html
+
+USC MSCS
+https://www.cs.usc.edu/academic-programs/masters/
+ddl: 12-15/01-15  08-31/09-15(春)
+https://viterbigradadmission.usc.edu/programs/masters/msprograms/
+网申链接
+https://gradadm.usc.edu/lightboxes/international-students-about-the-usc-application/
+TOEFL: 90(20 each)
+https://gradadm.usc.edu/lightboxes/international-students-english-proficiency/
+录取数据统计(2019)
+master_info/usc_cs_19.html
+录取数据统计(2018)
+master_info/usc_cs.html
+
+USC CS37(本科非CS)
+https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-scientists-engineers/
+ddl: 12-15/01-15  08-31/09-15(春)
+https://viterbigradadmission.usc.edu/programs/masters/msprograms/
+网申链接
+https://gradadm.usc.edu/lightboxes/international-students-about-the-usc-application/
+录取数据统计
+master_info/usc_cs37.html
+
+UPenn CIS
+http://www.cis.upenn.edu/prospective-students/graduate/mse.php
+UPenn MCIT(本科非CS)
+http://www.cis.upenn.edu/prospective-students/graduate/mcit.php
+ddl: 11-15/03-15
+https://gradadm.seas.upenn.edu/how-to-apply/
+网申链接
+http://www.seas.upenn.edu/prospective-students/graduate/admissions/
+TOEFL: 100(recommended)
+https://gradadm.seas.upenn.edu/how-to-apply/
+录取数据统计
+master_info/upenn_cs.html
+
+Rice MCS(就业导向)
+https://www.cs.rice.edu/professional-masters
+ddl: 01-30/10-01(春)
+https://www.cs.rice.edu/application-graduate-students
+网申链接
+https://gradadmissions.rice.edu/apply/
+TOEFL: 90
+https://www.cs.rice.edu/application-graduate-students
+录取数据统计
+master_info/rice_cs.html
+
+JHU MSE CS
+https://www.cs.jhu.edu/graduate-studies/masters-program/
+ddl: 02-15/09-15(春)
+https://www.cs.jhu.edu/graduate-studies/graduate-admissions-information/
+网申链接
+https://grad.jhu.edu/apply/apply-now/
+TOEFL: 没有严格的线
+https://www.cs.jhu.edu/graduate-studies/graduate-admissions-information/graduate-admissions-faq/
+录取数据统计
+master_info/jhu_cs.html
+
+Emory MSCS
+http://cs.emory.edu/graduate/degrees/ms-cs/
+ddl: 04-30
+http://cs.emory.edu/graduate/general-information/app-info/
+网申链接
+https://www.applyweb.com/emorylgs/index.ftl
+TOEFL: 90
+http://cs.emory.edu/graduate/general-information/app-info/
+
+UCB MEng EECS
+https://eecs.berkeley.edu/academics/graduate/industry-programs/meng
+ddl: 01-07
+https://eecs.berkeley.edu/academics/graduate/industry-programs/meng
+网申链接
+https://gradapp.berkeley.edu/apply/
+TOEFL: 90(实际录取的都是100+)
+https://eecs.berkeley.edu/academics/graduate/industry-programs/meng
+录取数据统计
+master_info/ucb_cs.html
+
+UCLA MSCS
+https://www.cs.ucla.edu/graduate-program/
+ddl: 12-01
+https://www.cs.ucla.edu/graduate-admission-frequently-asked-questions/
+网申链接
+https://apply.grad.ucla.edu/apply/
+TOEFL: 87(实际录取的都是100+)
+https://www.cs.ucla.edu/graduate-admission-requirements/
+录取数据统计
+master_info/ucla_cs.html
+
+UCSD MSCS
+https://cse.ucsd.edu/graduate/degree-programs/ms-program
+ddl: 12-17
+https://cse.ucsd.edu/graduate/admissions
+网申链接
+https://apply.grad.ucsd.edu/home
+TOEFL: 85(实际录取的都是100+)
+https://cse.ucsd.edu/graduate/admissions
+录取数据统计
+master_info/ucsd_cs.html
+
+UCSB MSCS
+https://www.cs.ucsb.edu/education/grad/masters-degree
+ddl: 12-15
+https://www.cs.ucsb.edu/education/grad/apply
+网申链接
+https://www.graddiv.ucsb.edu/eapp/Login.aspx
+TOEFL: 100
+https://www.cs.ucsb.edu/education/grad/apply
+录取数据统计
+master_info/ucsb_cs.html
+
+UCD MSCS
+https://www.cs.ucdavis.edu/graduate/#prospective
+ddl: 01-15
+https://www.cs.ucdavis.edu/graduate/#prospective
+网申链接
+https://grad.ucdavis.edu/apply
+TOEFL: 80(104以下要上语言课)
+https://grad.ucdavis.edu/admissions/admission-requirements/international-applicants
+录取数据统计
+master_info/ucd_cs.html
+
+UCI MSCS
+https://www.ics.uci.edu/grad/degrees/degree_cs.php
+UCI Professional MCS(2018新开)
+https://mcs.ics.uci.edu/
+ddl: 12-15
+https://www.ics.uci.edu/grad/admissions/Prospective_ApplicationProcess.php
+网申链接
+https://apply.grad.uci.edu/apply/
+TOEFL: 80(实际录取的都是95+)
+https://www.ics.uci.edu/grad/admissions/Prospective_ApplicationProcess.php
+录取数据统计
+master_info/uci_cs.html
+
+Gatech MSCS
+https://www.cc.gatech.edu/future/masters/mscs
+ddl: 02-01
+https://www.cc.gatech.edu/future/masters/mscs
+网申链接
+http://www.gradadmiss.gatech.edu/apply-now
+TOEFL: 100
+https://www.cc.gatech.edu/academics/degree-programs/masters/computer-science/admissionreqs
+录取数据统计
+master_info/gatech_cs.html
+
+Gatech MS CSE
+https://www.cse.gatech.edu/academics/ms-cse
+ddl: 02-01
+https://www.cse.gatech.edu/academics/ms-cse
+网申链接
+http://www.gradadmiss.gatech.edu/apply-now
+录取数据统计
+master_info/gatech_cse.html
+
+UTAustin MSCS
+https://www.cs.utexas.edu/graduate-program/masters-program
+ddl: 12-15
+https://www.cs.utexas.edu/graduate/prospective-students/apply
+网申链接
+https://www.cs.utexas.edu/graduate/prospective-students/apply
+
+UIUC Professional MCS
+https://cs.illinois.edu/academics/graduate/professional-master-computer-science
+ddl: 01-15
+https://cs.illinois.edu/admissions/graduate/application-deadlines
+网申链接
+https://choose.illinois.edu/apply/
+TOEFL: 申请奖学金口语要24
+https://cs.illinois.edu/additional-required-application-materials-international-students#finaid
+录取数据统计
+master_info/uiuc_cs.html
+
+UIUC MSCS(研究导向)
+https://cs.illinois.edu/academics/graduate/ms-program
+ddl: 12-15
+https://cs.illinois.edu/admissions/graduate/application-deadlines
+网申链接
+https://choose.illinois.edu/apply/
+
+NYU MSCS
+https://cs.nyu.edu/home/master/prospective_mscs.html
+ddl: 03-01/10-01(春)
+https://cs.nyu.edu/home/master/prospective_admission.html
+网申链接
+http://gsas.nyu.edu/admissions/gsas-application-resource-center.html
+TOEFL: 100
+https://cs.nyu.edu/home/master/prospective_admission.html
+录取数据统计
+master_info/nyu_cs.html
+
+NYU MS-CEI(2019新开,跟Stern合作，招本科非CS)
+https://cs.nyu.edu/ms-cei/index.html
+ddl: 11-16/12-18/01-18
+https://cs.nyu.edu/ms-cei/admissions.html
+网申链接
+http://gsas.nyu.edu/admissions/gsas-application-resource-center.html
+TOEFL: 100
+https://cs.nyu.edu/ms-cei/admissions.html
+curriculum 
+https://cs.nyu.edu/ms-cei/program_overview.html
+
+NYU-Tandon MSCS(招收本科非CS)
+https://engineering.nyu.edu/academics/programs/computer-science-ms
+ddl: 02-15/11-01(春)
+https://engineering.nyu.edu/admissions/graduate/apply/application-deadlines
+网申链接
+https://engineering.nyu.edu/apply-grad
+TOEFL: 90
+https://engineering.nyu.edu/admissions/graduate/apply/requirements/english-language-proficiency-testing
+curriculum 
+https://engineering.nyu.edu/academics/programs/computer-science-ms
+录取数据统计
+master_info/nyu_tandon_cs.html
+
+Northwestern MSCS
+https://www.mccormick.northwestern.edu/eecs/computer-science/graduate/masters/
+ddl: 02-28
+https://www.mccormick.northwestern.edu/eecs/academics/graduate/admissions.html#a
+网申链接
+https://www.applyweb.com/nugrad/index.ftl
+TOEFL: 90
+https://www.mccormick.northwestern.edu/eecs/academics/graduate/admissions.html#i
+录取数据统计
+master_info/northwestern_cs.html
+
+Rice MCS
+https://www.cs.rice.edu/professional-masters
+ddl: 01-30/10-01(春)
+https://www.cs.rice.edu/application-graduate-students
+网申链接
+https://gradapply.rice.edu/
+TOEFL: 90(实际录取的都是100+)
+https://www.cs.rice.edu/application-graduate-students
+录取数据统计
+master_info/rice_cs.html
+
+Duke MSCS
+https://www.cs.duke.edu/graduate/ms
+ddl: 01-31
+https://gradschool.duke.edu/admissions/application-deadlines/fall-semester-application-deadlines#masters
+网申链接
+https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=dukegrad
+TOEFL: 90(实际录取的都是100+)
+https://gradschool.duke.edu/admissions/apply/english-language-proficiency-test-scores
+官网录取统计数据
+https://gradschool.duke.edu/about/statistics/computer-science-master-s-admissions-and-enrollment-statistics
+录取数据统计
+master_info/duke_cs.html
+
+Duke ECE
+https://ece.duke.edu/grad/masters
+ddl: 01-01
+https://gradschool.duke.edu/admissions/application-deadlines/fall-semester-application-deadlines#masters
+网申链接
+https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=dukegrad
+
+WUSTL MSCS
+https://cse.wustl.edu/graduate/programs/Pages/ms-in-computer-science.aspx
+ddl: 03-01/08-01(春)
+https://engineering.wustl.edu/prospective-students/graduate-admissions/Pages/application-process.aspx
+网申链接
+https://applyweb.com/cgi-bin/app?s=wustl
+录取数据统计
+master_info/wustl_cs.html
+
+Dartmouth MSCS
+https://web.cs.dartmouth.edu/graduate/ms-programs
+ddl: 12-15
+https://web.cs.dartmouth.edu/graduate/ms-programs
+网申链接
+https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=dart-grad
+录取数据统计
+master_info/dartmouth_cs.html
+
+NEU MSCS(波士顿/硅谷/西雅图)
+https://www.northeastern.edu/graduate/program/master-of-science-in-computer-science-boston-5238/
+NEU ALIGN(面向本科非CS，波/硅/西)
+https://www.northeastern.edu/graduate/program/master-of-science-in-computer-science-align-boston-5234/
+ddl: 05-01/10-16(春)
+https://www.northeastern.edu/graduate/program/master-of-science-in-computer-science-boston-5238/
+网申链接
+https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=neu-grad
+录取数据统计(2019)
+master_info/neu_cs_19.html
+录取数据统计(2018)
+master_info/neu_cs.html
+
+BU MSCS
+http://www.bu.edu/cs/masters/
+ddl: 05-01/11-01(春)
+http://www.bu.edu/cs/masters/admissions/
+网申链接
+https://bu-grs.liaisoncas.com/applicant-ux/#/login
+TOEFL: 21 each
+http://www.bu.edu/cas/admissions/ma-ms/international-students/
+录取数据统计
+master_info/bu_cs.html
+
+Purdue MSCS
+https://engineering.purdue.edu/ProEd/programs/masters-degrees/computer-science
+ddl: 12-20/10-01(春)
+https://www.cs.purdue.edu/graduate/admission/steps.html
+网申链接
+https://gradapply.purdue.edu/apply/
+录取数据统计
+master_info/purdue_cs.html
+
+WPI MSCS(本科非CS友好)
+https://www.wpi.edu/academics/study/computer-science-ms
+ddl: 01-01/rolling 10-01(春)
+https://www.wpi.edu/admissions/graduate/how-to-apply?itemId=item-27
+网申链接
+https://gradapp.wpi.edu/apply/
+TOEFL: 84(20 each recommended)
+https://www.wpi.edu/admissions/graduate/how-to-apply?itemId=item-27
+录取数据统计
+master_info/wpi_cs.html
+
+Brandeis MSCS(本科非CS友好)
+http://www.brandeis.edu/computer-science/graduate/index.html
+ddl: rolling till 04-15
+http://www.brandeis.edu/gsas/programs/computer_science.html
+网申链接
+https://apply.gsas.brandeis.edu/apply/
+TOEFL: 100
+http://www.brandeis.edu/gsas/admissions/international.html
+录取数据统计
+master_info/brandeis_cs.html
+
+GWU MSCS(本科非CS友好)
+https://www.cs.seas.gwu.edu/master-science-computer-science
+ddl: 01-15/09-01(春)
+https://graduate.seas.gwu.edu/ms-admissions-requirements
+网申链接
+https://graduate.seas.gwu.edu/admissions-requirements
+TOEFL: 80
+https://graduate.seas.gwu.edu/international-admissions-information
+录取数据统计
+master_info/gwu_cs.html
+
+UMass MSCS(本科非CS友好)
+https://www.cics.umass.edu/degree-program/masters
+ddl: 12-15/10-01(春)
+https://www.cics.umass.edu/degree-program/masters
+网申链接
+https://www.cics.umass.edu/admissions/application-instructions
+TOEFL: 80
+http://www.umass.edu/gradschool/admissions/faq
+录取数据统计
+master_info/umass_cs.html
+
+NCSU MSCS(科研导向)
+https://www.csc.ncsu.edu/academics/graduate/degrees/ms.php
+NCSU MCS(就业导向, 有DS track)
+https://www.csc.ncsu.edu/academics/graduate/degrees/mcs.php
+ddl: 12-15
+https://www.csc.ncsu.edu/academics/graduate/admdeadlines.php
+网申链接
+https://applygrad.ncsu.edu/apply/
+avg TOEFL 106, GRE V 61%, Q 90%
+https://www.csc.ncsu.edu/academics/graduate/gretoefl.php
+录取数据统计
+master_info/ncsu_cs.html
+
+CWRU MSCS
+http://engineering.case.edu/eecs/CS_MS
+ddl: 05-31/10-01(春)
+https://case.edu/gradstudies/prospective-students/admissions-information/application-deadlines
+网申链接
+https://case.edu/gradstudies/prospective-students/admissions-information/graduate-program-applications
+TOEFL: 90
+https://case.edu/gradstudies/prospective-students/admissions-information/graduate-program-applications
+录取数据统计
+master_info/cwru_cs.html
+
+
+
+
+

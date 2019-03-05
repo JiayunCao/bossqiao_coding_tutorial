@@ -1,0 +1,322 @@
+CMU MISM(16-month)
+https://www.heinz.cmu.edu/programs/information-systems-management-master/16-month
+ddl: 01-10/rolling
+https://www.heinz.cmu.edu/admissions/information-systems-management/
+网申链接
+https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=cmu-spp
+TOEFL: recommended 25 each
+https://www.heinz.cmu.edu/admissions/checklist/exam-results
+Video Interview (optional，但95%的录取者提交了！！)
+https://www.heinz.cmu.edu/admissions/information-systems-management/
+job placement
+https://www.heinz.cmu.edu/programs/information-systems-management-master/mism-career-outcomes
+录取数据统计
+master_info/cmu_mis.html
+   
+#
+CMU MISM (12-month)
+https://www.heinz.cmu.edu/programs/information-systems-management-master/12-month
+面向至少有3年工作经验的申请者
+https://www.heinz.cmu.edu/admissions/information-systems-management/
+CMU BIDA (16-month）
+https://www.heinz.cmu.edu/programs/information-systems-management-master/bida
+非常火，录取要求更高，要先修课：database, programming, statistics
+https://www.heinz.cmu.edu/admissions/information-systems-management/
+CMU BIDA (12-month)
+https://www.heinz.cmu.edu/programs/information-systems-management-master/bida-12month
+面向至少有3年工作经验的申请者
+https://www.heinz.cmu.edu/admissions/information-systems-management/
+CMU BIDA (global)
+https://www.heinz.cmu.edu/programs/information-systems-management-master/global
+录取要求相对低些，第一年在澳大利亚Adelaide，第二年在Pittsburgh
+https://www.heinz.cmu.edu/admissions/information-systems-management/
+
+NYU MSIS(CS学院)
+https://cs.nyu.edu/home/master/prospective_msis.html
+ddl: 03-01/10-01(春)
+https://cs.nyu.edu/home/master/prospective_admission.html
+网申链接
+https://apply.gsas.nyu.edu/apply/
+TOEFL: 100
+https://cs.nyu.edu/home/master/prospective_admission.html
+要求至少一年工作经验
+https://cs.nyu.edu/home/master/prospective_admission.html
+录取数据统计
+master_info/nyu_mis.html
+
+UTAutin MSIS(ischool)
+https://www.ischool.utexas.edu/programs/masters
+ddl: 02-01
+https://www.ischool.utexas.edu/admissions
+网申链接
+https://www.applytexas.org/adappc/gen/c_start.WBX
+TOEFL: 79 (实际录取基本90+)
+https://www.ischool.utexas.edu/admissions/international_students
+项目学生分享就读体验
+https://www.ischool.utexas.edu/people/ischool-student-profiles
+录取数据统计
+master_info/uta_mis.html
+
+NEU MIS(西雅图/硅谷/波士顿)
+https://www.northeastern.edu/graduate/program/master-of-science-in-information-systems-boston-5278/
+ddl: 01-15/05-15 09-15(春)
+https://www.northeastern.edu/graduate/program/master-of-science-in-information-systems-boston-5278/
+网申链接
+https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=neu-grad
+官方宣传视频（油管）
+https://youtu.be/-DGYJ_ORqNQ
+官网写就业率100%：IBM, Oracle, Microsoft都是目标公司
+http://www.coe.neu.edu/degrees/ms-is
+录取数据统计
+master_info/neu_mis.html
+
+Cornell MPS IS
+https://infosci.cornell.edu/masters/mps
+ddl: 01-15
+https://infosci.cornell.edu/masters/mps/admissions
+网申链接
+https://gradschool.cornell.edu/admissions/apply/apply-now/
+TOEFL: S24, W20
+https://infosci.cornell.edu/masters/mps/admissions
+
+Northwestern MSIT
+https://www.mccormick.northwestern.edu/information-technology/
+ddl: 02-01/05-01/rolling
+https://www.mccormick.northwestern.edu/information-technology/
+网申链接
+https://pmp-application.mccormick.northwestern.edu/frontend/login/
+TOEFL:90
+https://www.mccormick.northwestern.edu/information-technology/full-time/admissions/
+Student Body(全职学生30%)
+https://www.mccormick.northwestern.edu/information-technology/overview/student-body-profile.html
+info sessions(官方在线答疑)
+https://www.mccormick.northwestern.edu/information-technology/information-sessions/
+
+UCB MIMS(ishcool)
+https://www.ischool.berkeley.edu/programs/mims
+ddl: 01-07
+https://www.ischool.berkeley.edu/programs/mims/admissions
+网申链接
+http://www.grad.berkeley.edu/admissions/online_app_inst.shtml
+TOEFL: 90
+https://www.ischool.berkeley.edu/programs/mims/admissions
+在读学生
+https://www.ischool.berkeley.edu/people?role=124&degr=MIMS
+官方宣传视频（油管）
+https://youtu.be/hE5XXLucp_E
+Info session
+https://www.ischool.berkeley.edu/programs/mims/events
+
+WUSTL MISM
+https://sever.wustl.edu/degreeprograms/information-systems-management/Pages/default.aspx
+ddl: 03-01/10-01(春)
+https://engineering.wustl.edu/prospective-students/graduate-admissions/Pages/application-process.aspx
+网申链接
+https://applyweb.com/cgi-bin/app?s=wustl
+TOEFL: 无最低要求，目测90以上可申
+https://engineering.wustl.edu/prospective-students/graduate-admissions/Pages/faqs.aspx
+在读学生访谈（官方）
+https://engineering.wustl.edu/prospective-students/graduate-admissions/Pages/student-profiles-detail.aspx
+录取数据统计
+master_info/wustl_mis.html
+
+UW MSIM(ischool)
+https://ischool.uw.edu/programs/msim
+ddl: 11-15/01-15/04-15
+https://ischool.uw.edu/programs/msim/admissions/apply
+网申链接
+http://grad.uw.edu/admissions/apply-now/
+方向: DS, BI, etc.
+https://ischool.uw.edu/programs/msim/specializations
+TOEFL: 100
+https://ischool.uw.edu/programs/msim/admissions
+info sessions 
+https://ischool.uw.edu/events?type=Recruitment&aud=FutureStudents&program=msim
+
+UW MSIS(商学院)
+https://foster.uw.edu/academics/degree-programs/master-of-science-in-information-systems/
+ddl: 02-01/rolling
+https://foster.uw.edu/academics/degree-programs/master-of-science-in-information-systems/msis-admissions/
+网申链接
+https://foster.uw.edu/apply/
+TOEFL: 92
+https://foster.uw.edu/academics/degree-programs/master-of-science-in-information-systems/msis-admissions/
+需要video interview
+https://foster.uw.edu/academics/degree-programs/master-of-science-in-information-systems/msis-admissions/
+Class Profile(avg work: 4yr, age 26, gmat 664, size 47)
+https://foster.uw.edu/academics/degree-programs/master-of-science-in-information-systems/msis-admissions/
+Info sessions
+https://foster.uw.edu/academics/degree-programs/master-of-science-in-information-systems/admissions-events/
+
+UNC MSIS(Lib Sci)
+https://sils.unc.edu/programs/graduate/msis
+ddl: 02-12/04-09 10-09(春)
+https://sils.unc.edu/programs/graduate/admissions#deadlines
+网申链接
+https://applynow.unc.edu/apply/
+curriculum
+https://sils.unc.edu/programs/graduate/msis/curriculum-new
+TOEFL: 90  GRE: V&Q 50%+, AW 4+
+https://sils.unc.edu/programs/graduate/admissions
+官方宣传视频-在读学生（油管 14min）
+https://youtu.be/GO2NLR5xZHE
+官方宣传视频-教授（油管）
+https://youtu.be/OHsobfWscGQ
+录取数据统计
+master_info/unc_mis.html
+
+UMich MSI(ischool)
+https://www.si.umich.edu/content/msi
+ddl: 01-15
+https://www.si.umich.edu/academics/admissions/msi-application-deadlines
+网申链接
+https://www.applyweb.com/uminfo/index.ftl
+TOEFL: 102 (25 each preferred)
+https://www.si.umich.edu/academics/admissions/msi-application-requirements
+录取数据统计
+master_info/umich_mis.html
+
+UIUC MSIM(ischool)
+https://ischool.illinois.edu/degrees-programs/ms-information-management
+ddl: 12-01/09-15(春)
+https://ischool.illinois.edu/degrees-programs/ms-information-management/apply
+网申链接
+http://www.grad.illinois.edu/admissions/apply/
+TOEFL: 104 (25 each)
+https://ischool.illinois.edu/degrees-programs/ms-information-management/apply
+录取数据统计
+master_info/uiuc_mis.html
+
+Pitt MSIS
+http://www.dins.pitt.edu/degrees/masters-degrees/
+ddl: 01-15/06-15(春)/12-15(夏)
+http://www.dins.pitt.edu/degrees/masters-degrees/master-of-science-in-information-science/admissions/
+网申链接
+http://sci.pitt.edu/take-the-next-step/?h=apply
+TOEFL: 低于100分上语言课
+http://www.dins.pitt.edu/degrees/masters-degrees/master-of-science-in-information-science/admissions/
+录取数据统计
+master_info/pitt_mis.html
+
+JHU MIS
+https://carey.jhu.edu/programs/master-science/ms-information-systems/
+ddl: 11-07/01-23/04-10/05-01
+https://carey.jhu.edu/programs/master-science/ms-information-systems/
+网申链接
+https://applygrad.jhu.edu/apply/
+TOEFL: 100
+https://carey.jhu.edu/programs/how-to-apply/international-applicants/
+官方就业数据
+https://carey.jhu.edu/programs/employment-statistics/ms-information-systems
+录取数据统计
+master_info/jhu_mis.html
+
+UFL MSISOM
+https://warrington.ufl.edu/master-of-science-in-information-systems-and-operations-management/
+ddl: 02-15/08-01
+https://warrington.ufl.edu/master-of-science-in-information-systems-and-operations-management/
+网申链接
+https://www.applyweb.com/uflgrad/index.ftl
+需要邮寄成绩单
+https://www.applyweb.com/uflgrad/index.ftl
+录取数据统计
+master_info/ufl_mis.html
+
+PSU MSIS(商学院)
+https://harrisburg.psu.edu/business-administration/information-systems/master-science-information-systems
+ddl: 05-31/09-30(春)/02-28(夏)
+https://harrisburg.psu.edu/admissions/graduate-admissions
+网申链接
+https://secure.gradsch.psu.edu/app/gradapp
+TOEFL: 80
+http://gradschool.psu.edu/prospective-students/how-to-apply/new-applicants/requirements-for-graduate-admission/
+curriculum
+https://harrisburg.psu.edu/business-administration/information-systems/master-science-information-systems/curriculum
+
+Fordham MSIT
+https://www.fordham.edu/info/23706/information_technology
+ddl: 10-12/11-16/01-18/03-29/05-31 10-26(春)
+https://www.fordham.edu/info/20484/graduate_admissions/9407/graduate_admissions_deadlines_and_requirements
+网申链接
+https://gradadmissions.fordham.edu/apply
+TOEFL: 100(recommended)
+https://www.fordham.edu/info/23979/admissions_international
+
+GWU MSIST(商学院)
+https://business.gwu.edu/academics/programs/specialized-masters/msist
+ddl: 12-15/01-15/03-30
+https://business.gwu.edu/prospective-students/specialized-masters/msist-admission
+网申链接
+https://gw.force.com/TX_SiteLogin?startURL=%2FTargetX_Portal__PB
+TOEFL: 100
+https://business.gwu.edu/prospective-students/specialized-masters/msist-admission
+
+Syracuse MSIM(ischool)
+https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-information-management/
+ddl: 02-01/06-01 10-15/12-15(春)
+https://ischool.syr.edu/academics/admissions/
+网申链接
+https://www.applyweb.com/cgi-bin/app?s=syr
+TOEFL: 80
+https://www.syracuse.edu/admissions/undergraduate/international/requirements/
+录取数据统计
+master_info/syracuse_mis.html
+
+UMD MIS(商学院)
+https://www.rhsmith.umd.edu/programs/ms-information-systems
+ddl: 10-16/11-15/01-10/02-15/03-15
+https://www.rhsmith.umd.edu/programs/ms-information-systems/admissions
+网申链接
+https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=rhsmith
+TOEFL: 100 (S22, L24, R25, W24)
+https://www.rhsmith.umd.edu/programs/ms-information-systems/admissions
+需要video essay
+https://www.rhsmith.umd.edu/programs/ms-information-systems/admissions
+
+TAMU MSIS(商学院)
+https://mays.tamu.edu/ms-management-information-systems/
+ddl: 12-01/02-15
+https://mays.tamu.edu/ms-management-information-systems/
+网申链接
+https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=tamu-ms
+TOEFL: 100(GRE verbal超过146分可免)
+https://mays.tamu.edu/ms-management-information-systems/what-we-look-for/
+录取数据统计
+master_info/tamu_mis.html
+
+WPI MSIT
+https://www.wpi.edu/academics/study/information-technology-ms
+ddl: 06-15/11-06(春)
+https://www.wpi.edu/admissions/graduate/how-to-apply?itemId=item-12
+网申链接
+https://gradapp.wpi.edu/apply/
+TOEFL: 84(20 each preferred)
+https://www.wpi.edu/admissions/graduate/how-to-apply?itemId=item-12
+
+IUB MSIS(商学院)
+https://kelley.iu.edu/programs/ms-information-systems/index.cshtml
+ddl: 11-01(免申请费)/rolling
+https://kelley.iu.edu/programs/ms-information-systems/admissions/index.cshtml
+网申链接
+https://sisjee.iu.edu/sisad-prd/p/Guest.do?methodToCall=start&inst=IUBLA&career=GRAD&parm1=DEGR
+Class Profile(avg TOEFL 111?? GRE 321)
+https://kelley.iu.edu/programs/ms-information-systems/admissions/class-profile/index.cshtml
+
+Arizona MIS
+https://mis.eller.arizona.edu/
+ddl: 01-15
+https://msmis.eller.arizona.edu/faqs
+网申链接
+https://apply.grad.arizona.edu/users/login
+就业统计数据（官方）
+https://msmis.eller.arizona.edu/masters-placement
+
+
+
+
+
+
+
+
+
+
